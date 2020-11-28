@@ -1,5 +1,5 @@
-name
+name = first
 
-email
+email = first@first.com
 
-password
+password = password
