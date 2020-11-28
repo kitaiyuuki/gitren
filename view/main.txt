@@ -1,0 +1,5 @@
+User.name
+
+Comment.title
+
+Comment.body
