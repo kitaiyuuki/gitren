@@ -1,3 +1,0 @@
-title = aaaaaa
-
-body = bbbbbbbbbb
