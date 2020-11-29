@@ -1,5 +1,5 @@
 goodbye
 
-login home
+login register home
 
 description
